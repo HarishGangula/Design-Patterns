@@ -1,0 +1,25 @@
+{
+  "name": "Design-Patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarishGangula/Design-Patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarishGangula/Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/HarishGangula/Design-Patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "ts-node": "^9.1.1"
+  }
+}
